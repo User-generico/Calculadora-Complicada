@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CalculadoraComplicada</string>
+    <string name="inserirTitulo">INSIRA NÚMEROS AQUI</string>
+    <string name="resultadoTitulo">VEJA RESULTADOS AQUI</string>
+    <string name="tituloTitulo">Calculadora Complicada</string>
+    <string name="button">Button</string>
+</resources>
