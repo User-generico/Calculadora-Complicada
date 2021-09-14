@@ -4,4 +4,6 @@
     <string name="resultadoTitulo">VEJA RESULTADOS AQUI</string>
     <string name="tituloTitulo">Calculadora Complicada</string>
     <string name="button">Button</string>
+    <string name="somar">somar</string>
+    <string name="multiplicar">Multiplicar</string>
 </resources>
